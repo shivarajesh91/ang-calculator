@@ -25,3 +25,37 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+<hr>
+
+## Technologies
+
+| Name | Version |
+|---|---|
+|Angular |18.1.0|
+|Tailwind CSS |3.4.18|
+
+<hr>
+
+## Commands
+
+Ang Calculator Project:
+
+```
+> ng new ang-calculator
+```
+
+Tailwind CSS:
+
+```
+> npm install -D tailwindcss@3 postcss autoprefixer
+> npx tailwindcss init
+```
+<hr>
+
+## Reference
+
+* [YouTube Video](https://www.youtube.com/watch?v=EuJsvyFz2kA) : https://www.youtube.com/watch?v=EuJsvyFz2kA
+
+* [tailwindcss - installation](https://v3.tailwindcss.com/docs/installation) : https://v3.tailwindcss.com/docs/installation
+<hr>
