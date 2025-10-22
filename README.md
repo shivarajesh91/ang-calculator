@@ -53,6 +53,12 @@ Tailwind CSS:
 ```
 <hr>
 
+## Domains
+
+* [Ang Calculator Domain 1](https://ang-calculator-sr91.web.app/) : https://ang-calculator-sr91.web.app/
+* [Ang Calculator Domain 2](https://ang-calculator-sr91.firebaseapp.com/) : https://ang-calculator-sr91.firebaseapp.com/
+<hr>
+
 ## Reference
 
 * [YouTube Video](https://www.youtube.com/watch?v=EuJsvyFz2kA) : https://www.youtube.com/watch?v=EuJsvyFz2kA
